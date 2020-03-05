@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="OTHER VIP APPS">
+            <menu>
+
+                <item
+                    android:id="@+id/nav_correct_score"
+                    android:onClick="correct_score"
+                    android:title="CORRECT SCORE VIP" />
+
+                <item
+                    android:id="@+id/nav_fifty_plus"
+                    android:onClick="fifty_plus"
+                    android:title="50+ ODDS VIP" />
+
+                <item
+                    android:id="@+id/nav_special"
+                    android:onClick="special"
+                    android:title="SPECIAL VIP" />
+
+
+            </menu>
+        </item>
+
+
+
+    </group>
+
+    <item android:title="Communication">
+
+        <menu>
+            <item
+                android:id="@+id/nav_contact_us"
+
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/nav_about_us"
+
+                android:title="About Us" />
+
+            <item
+                android:id="@+id/nav_rate_us"
+                android:onClick="rate_us"
+                android:title="Rate Us"/>
+        </menu>
+    </item>
+
+</menu>

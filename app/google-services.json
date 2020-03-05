@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986732397021",
+    "firebase_url": "https://half-time-full-time-vip-e5e33.firebaseio.com",
+    "project_id": "half-time-full-time-vip-e5e33",
+    "storage_bucket": "half-time-full-time-vip-e5e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986732397021:android:96ac5e54fdbafbe0cb3634",
+        "android_client_info": {
+          "package_name": "com.halffull.vipbettingtips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986732397021-gkj9qsvhun2efit09t35mqqel15m1abt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halffull.vipbettingtips",
+            "certificate_hash": "054b55930944fd55c74d21276791b24b3199222d"
+          }
+        },
+        {
+          "client_id": "986732397021-gb3psqkf7qpae9q94cv86h4qp6fn903p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRKLx-mqX9gdZdJ0KmbWgtZTVVIPMXKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986732397021-gb3psqkf7qpae9q94cv86h4qp6fn903p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

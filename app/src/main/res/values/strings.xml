@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HT/FT VIP</string>
+
+    <string name="default_notification_channel_id">Notification</string>
+    <string name="fcm_message">Notification</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string name="about_us">We’re passionate about football and able to predict most accurate betting tips. Half Time Full Time Tips is a professional football betting tips provider. We consistently make a huge amount of profit from sports betting specially on football. Now we are sharing our most precise prediction on football with you. We have a dedicated expert team; they do deep analysis everyday to provide the best prediction. Stay with us and increase your winning chance.</string>
+
+    <string name="contact_us">If you have any idea or want to contact with us then just send an email to
+</string>
+
+    <string name="email">vipbettingteam@gmail.com</string>
+</resources>
